@@ -1,0 +1,10 @@
+C:\Users\DELL\Downloads\PaintEspe2_completo\PaintEspe2\PaintEspe\bin\Debug\PaintEspe.exe.config
+C:\Users\DELL\Downloads\PaintEspe2_completo\PaintEspe2\PaintEspe\bin\Debug\PaintEspe.exe
+C:\Users\DELL\Downloads\PaintEspe2_completo\PaintEspe2\PaintEspe\bin\Debug\PaintEspe.pdb
+C:\Users\DELL\Downloads\PaintEspe2_completo\PaintEspe2\PaintEspe\obj\Debug\PaintEspe.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\PaintEspe2_completo\PaintEspe2\PaintEspe\obj\Debug\PaintEspe.Properties.Resources.resources
+C:\Users\DELL\Downloads\PaintEspe2_completo\PaintEspe2\PaintEspe\obj\Debug\PaintEspe.Form1.resources
+C:\Users\DELL\Downloads\PaintEspe2_completo\PaintEspe2\PaintEspe\obj\Debug\PaintEspe.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\PaintEspe2_completo\PaintEspe2\PaintEspe\obj\Debug\PaintEspe.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\PaintEspe2_completo\PaintEspe2\PaintEspe\obj\Debug\PaintEspe.exe
+C:\Users\DELL\Downloads\PaintEspe2_completo\PaintEspe2\PaintEspe\obj\Debug\PaintEspe.pdb
